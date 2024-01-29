@@ -1,5 +1,6 @@
-// tiny wrapper with default env vars
 module.exports = {
-  NODE_ENV: process.env.NODE_ENV || 'development',
-  PORT: process.env.PORT || 3000,
+  NODE_ENV: 'development',
+  PORT: 3000,
+  API_KEY: "8A5siXuKHfLqaXvL5pqOjw==s7x1H7bx6jE2NHcj",
+  API_URL: "https://api.api-ninjas.com/v1/quotes"
 };
