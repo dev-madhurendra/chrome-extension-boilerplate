@@ -133,4 +133,4 @@ ApiCall({ key: secrets.key });
 
 ---
 
-Madhurendra Nath Tiwari | [Website](https://dev-madhurendra.github.io)
+Madhurendra Nath Tiwari | [Website](https://dev-madhurendra.vercel.app)
